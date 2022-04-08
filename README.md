@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Archie Boswell, a First-Class graduate from the Univerity of Nottingham.
+- 👀 I’m interested in new and exciting data opportunities.
+- 🌱 I’m currently working on a project that predicts the outcome of Premier League football games.
+- 💞️ I’m always open to collaborations and new ideas so please get in touch if you like the look of my work.
+- Contact me:
+- LinkedIn- Archie Boswell, Email-archieboswell88@gmail.com, Phone- 07858 004853
