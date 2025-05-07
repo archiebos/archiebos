@@ -6,7 +6,8 @@ Welcome to my profile! My name is **Archie Boswell**. During my mathematics degr
 
 Check out my favourite trading dashboard:
 
-| [[Tableau Public]](https://public.tableau.com/app/profile/archie.boswell/viz/Trading_17022895244000/TRADING1) and my CV here: [[PDF CV]](https://github.com/MorganRennie/MorganRennie/blob/main/morgan_rennie_cv_pdf.pdf). GitHub Website coming soon | ![Welcome GIF](https://www.troublefreepool.com/media/hello-2-gif.3475/) |
+| [[Tableau Public]](https://public.tableau.com/app/profile/archie.boswell/viz/Trading_17022895244000/TRADING1) .
+GitHub Website coming soon | ![Welcome GIF](https://www.troublefreepool.com/media/hello-2-gif.3475/) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 
 ## 🚀 About Me
